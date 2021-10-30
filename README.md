@@ -6,6 +6,8 @@
 > <b>Your best solution in protecting your experiences from dangerous players.</b><br />
 > 24/7 updating, protecting against exploiters, trollers, and other dangerous users.</p>
 
+Guardian Solutions is a specially-designed, 100% user-friendly security solution for your experience. No coding or previous experience needed.
+
 🔎 Want to block a user from joining your experiences? Get set up here.
 🔨 Trying to get moderation packages set up for your group or experience? Get set up here.
 
