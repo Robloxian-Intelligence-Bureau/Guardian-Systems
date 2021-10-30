@@ -46,8 +46,8 @@ local BannedPlayers = { --
 
 
 
-
-
+-- Code, do not change anything here.
+wait(0)
  game.Players.PlayerAdded:Connect(function(plr) -- Runs when the player joins
     for i, v in pairs(BannedPlayers) do -- Runs through the list of players in BannedPlayers (v = targeted UserId)
       if plr.UserId == v then -- If the player's UserId matches an Id listed in BannedPlayers, it will kick the user in-question.
