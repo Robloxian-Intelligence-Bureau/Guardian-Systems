@@ -1,3 +1,3 @@
-<p style="align:center;">Guardian Systems</p>
-<p style="align:center;">
+<p style="text-align:center;">Guardian Systems</p>
+<p style="text-align:center;">
 <img src="https://img.shields.io/badge/Language-LuaU-yellow"/></a>
