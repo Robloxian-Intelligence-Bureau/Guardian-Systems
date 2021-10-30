@@ -8,7 +8,7 @@
 
 Guardian Solutions is a specially-designed, 100% user-friendly security solution for your experience. No coding or previous experience needed.
 
-🔎 Want to block a user from joining your experiences? Get set up here.
+🔎 Want to block a user from joining your experiences? Get set up here. <br />
 🔨 Trying to get moderation packages set up for your group or experience? Get set up here.
 
 Guardian Systems is a service provided free-of-charge, by the Robloxian Intelligence Bureau.<br />
